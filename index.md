@@ -1,1 +1,2 @@
-
+- **Scraper_NLP_EPOL481_v01.ipynb** was designed to scrape all works and get basic information automatically (the introduction and the references)
+- **Basic_NLP_readability_indice.ipynb** notebook was designed to parse the "references"
